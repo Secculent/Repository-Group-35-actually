@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         // Some code changes on master
 
+        // Changes on master in-between
+
     }
 }
